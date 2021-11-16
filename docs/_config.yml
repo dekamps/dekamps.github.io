@@ -21,13 +21,11 @@
 title: Neural Blackboard Architecture and Related Ramblings
 email: dekampsm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Marc de Kamps' blog posts on the Neural Blackboard Architecture and other topics. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dekamps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dekamps
-github_username:  not there yet
+twitter_username: not there yet
+github_username:  dekampsm@gmail.com
 
 # Build settings
 theme: minima
