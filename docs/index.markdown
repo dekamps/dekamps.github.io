@@ -27,6 +27,9 @@ I teach machine learning at Leeds University and am involved with neural network
 convolutional neural networks and variational autoencoders.
 The images come from a remarkable Leeds initiatve, NPIC, run by Darren Treanor. He and and Alex Wright co-supervise PhD students Andrew Broad and Jason Keighley together with me.
 
+Serge Sharoff is a specialist in neural machine translation. I'm co-supervisor of his PhD student Yuqian Dai who investigates the use of BERT, a transformer in
+neural machine translation. For me this is an introduction to a novel world, artificial neural networks applied to machine translation.
+
 Recently, I've become quite interested in variational inference and will write about it.
 
 ### Mathematics
