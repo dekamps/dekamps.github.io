@@ -45,9 +45,9 @@ each other, linking them to a switch
 board can realise the combinatorial expressivity of language by a relatively modest amount 'cabling'.
 
 
-This idea that somehow dynamical linkage between neural populations would account for neural language representation may have surfaced around 2006, when we published
+This idea that somehow dynamical linkage between neural populations would account for neural language representation may have been around in 2006, when we published
 a paper in Brain and Behavioural Sciences describing the NBA, but to my knowledge we were the first to propose a concrete neural model based on these ideas, one
-that goes into the details of not only how language can be represented, but also how you can retrieve it, as required for example when answering questions about the
+that goes into the details of not only how language can be represented, but also how you can retrieve it, as is required for example when answering questions about the
 information that is represented in sentences you have just processed.
 
 At the time other proposals were out, sometimes underpinned by significant simulation examples. Notable are the tensor product approach by Smolensky, SHRUTI by Shastri
@@ -65,5 +65,7 @@ only a single blackbord structure is necessary (a possible second one with a pho
 
 In the next series of blog posts I will go more into the detail of the original theory and the criticism it attracted, because this will help to understand where the innovation
 comes from. I will then develop my own understanding of the novel NBA structure which will be called head-NBA on specific examples.
+
+Moreover, more approaches different from the NBA have emerged since 2006. It will be interesting to compare the relative merits.
 
 Stay tuned.
