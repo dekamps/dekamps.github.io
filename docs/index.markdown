@@ -4,7 +4,7 @@
 
 layout: home
 ---
-This is my website. It contains blog posts and scientific topics that interest me.
+My name is Marc de Kamps. This is my website. It contains blog posts and scientific topics that interest me.
 ## Interests
 ### Computational/Cognitive Neuroscience
 After a PhD in physics I started a postdoc in a psychology department.  As a consequence I've done research in this area. I was PI in the Human Brain Project in the Theory Part of the project from 2015-2020. In 20066, Frank van der Velde and I published a proposal for a cognitive architecture: the neural blackboard architecture. Frank has made
@@ -25,9 +25,9 @@ and that makes some maths topics harder than necessary, in my opinion. I think I
 
 I teach machine learning at Leeds University and am involved with neural network analysis of  histopathology images with
 convolutional neural networks and variational autoencoders.
-The images come from a remarkable Leeds initiatve, NPIC, run by Darren Treanor. He and and Alex Wright co-supervise PhD students Andrew Broad and Jason Keighley with me.
+The images come from a remarkable Leeds initiatve, NPIC, run by Darren Treanor. He and and Alex Wright co-supervise PhD students Andrew Broad and Jason Keighley together with me.
 
-In the process, I've become quite interested in variational inference and will write about it.
+Recently, I've become quite interested in variational inference and will write about it.
 
 ### Mathematics
 
