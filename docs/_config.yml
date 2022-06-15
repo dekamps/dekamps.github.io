@@ -21,7 +21,7 @@
 title: Neural Blackboard Architecture and other stuff
 email: use dekampsm for gmail  
 description: >- # this means to ignore newlines until "baseurl:"
-  Marc de Kamps' blog posts on the Neural Blackboard Architecture and other topics. 
+  Blog on the Neural Blackboard Architecture. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dekamps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: not there yet
