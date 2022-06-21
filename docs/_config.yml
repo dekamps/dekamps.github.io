@@ -23,7 +23,7 @@ email: my username is dekampsm on a well known search engine account
 description: >- # this means to ignore newlines until "baseurl:"
   Blog on the Neural Blackboard Architecture. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dekamps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://neuralblackboard.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: not there yet
 github_username:  dekamps
 
