@@ -34,7 +34,7 @@ Recently, I've become quite interested in variational inference and will write a
 
 ### Mathematics
 
-Always interesting. Latest exploration: Visual Differential Geometry and Forms by Tristan Needham. A book that has shocked me a number of times, for example with a proof of the
+Always interesting. Latest exploration: (Visual Differential Geometry and Forms)[https://www.vdgf.space] by Tristan Needham. A book that has shocked me a number of times, for example with a proof of the
 Spectral Theorem (symmetric matrices have real eigenvalues and eigenvectors that are orthogonal) that is so simple it should be taught in every linear algebra course.
 
 I will write blog posts about these topics, and at times organise them into more coherent pieces of text.
