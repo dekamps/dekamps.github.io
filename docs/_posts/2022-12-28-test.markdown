@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MIIND on the Collab"
+date:   2022-12-29 10:53:54 +0000
+categories: neuroscience cognition language
+---
+
+# MIIND has Been successfully ported to the collab
+
+Here, we will describe what MIIND is.
