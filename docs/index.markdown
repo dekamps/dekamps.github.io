@@ -7,7 +7,7 @@ layout: home
 My name is Marc de Kamps. This is my website. It contains blog posts and scientific topics that interest me.
 ## Interests
 ### Computational/Cognitive Neuroscience
-After a PhD in physics I started a postdoc in a psychology department.  As a consequence I've done research in this area. I was PI in the Human Brain Project in the Theory Part of the project from 2015-2020. In 20066, Frank van der Velde and I published a proposal for a cognitive architecture: the neural blackboard architecture. Frank has made
+After a PhD in physics I started a postdoc in a psychology department.  As a consequence I've done research in this area. I was PI in the Human Brain Project in the Theory Part of the project from 2015-2020. In 2006, (Frank van der Velde)[https://research.utwente.nl/en/persons/franciscus-van-der-velde] and I published a proposal for a cognitive architecture: the neural blackboard architecture. Frank has made
 considerable progress of late and I intend to address his novel insights here.
 
 I will also discuss the work of my former PhD student, Hugh Osborne, who has pushed population density methods where I thought they couldn't go. Moreover, Hugh has modelled
